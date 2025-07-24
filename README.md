@@ -1,7 +1,7 @@
 # Zomato PowerBi Report
 *This project presents a comprehensive analysis of Zomato restaurant data using Power BI. It includes insights from 9,500+ restaurants across 15 countries and provides an intuitive, interactive dashboard covering key aspects of restaurant performance, customer behavior, and cuisine trends.*
 
-##📊 Dashboard Highlights =>  
+## 📊 Dashboard Highlights =>  
 ***Total Restaurants: 9,551***
 
 *Countries Covered: 15*
@@ -10,14 +10,14 @@
 
 *Total Ratings Analyzed: 28K*
 
-##<mark>Key Insights</mark>
+## <mark>Key Insights</mark>
 ***📍 City-wise Count: New Delhi leads with over 5.5K restaurants.***
 
 ***🍜 Top Cuisines: North Indian, Chinese, and Fast Food dominate the market.***
 
 ***⭐ Highest-Rated Brands: Barbecue Nation, Dunkin, Baskin Robbins.***
 
-##📱 Customer Behavior:
+## 📱 Customer Behavior:
 
 **74% prefer online delivery.**
 
@@ -26,7 +26,7 @@
 ***📌 Features***
 Dynamic filters by country and year.
 
-##Visualizations for:
+## Visualizations for:
 
 Cuisine-wise ratings
 
@@ -36,12 +36,12 @@ User preferences (booking vs delivery)
 
 Data-driven insights to support business strategy and marketing focus.
 
-##🛠 Tools Used
+## 🛠 Tools Used
 <mark>***Power BI for data visualization***</mark>
 
 *Zomato dataset (publicly available or synthetic sample)*
 
-##📚 Usage
+## 📚 Usage
 *This report can assist restaurant chains, marketers, or data enthusiasts in understanding food trends, customer preferences, and regional performance across countries.*
 
 ##📷 Dashboard Preview
