@@ -1,7 +1,7 @@
 # Zomato PowerBi Report
 *This project presents a comprehensive analysis of **Zomato restaurant** data using **Power BI**. It includes insights from 9,500+ restaurants across 15 countries and provides an intuitive, interactive dashboard covering key aspects of restaurant performance, customer behavior, and cuisine trends.*
 
-## 📊 Dashboard Highlights =>  
+## 📊 Dashboard Highlights   
 ***Total Restaurants: 9,551***
 
 *Countries Covered: 15*
